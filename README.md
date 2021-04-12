@@ -20,6 +20,8 @@ SCREENSHOTS
 1.LANDING PAGE
 ![WhatsApp Image 2021-04-12 at 8 05 52 PM](https://user-images.githubusercontent.com/72748396/114414037-1bfaff80-9bcc-11eb-8b0f-8da81c97e7af.jpeg)
 
+2. TASK PAGE 2
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
